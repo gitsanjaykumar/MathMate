@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">class6</string>
+    <string name="symmetry">Symmetry</string>
+    <string name="mensuration">Mensuration</string>
+    <string name="data_handling">Data Handling</string>
+    <string name="playing_with_numbers">Playing With Numbers</string>
+    <string name="whole_numbers">Whole Numbers</string>
+    <string name="basic_geometrical_ideas">Basic Geometrical Ideas</string>
+    <string name="understanding_of_elementary_shapes">Understanding Of Elementary Shapes</string>
+    <string name="integers">Integers</string>
+    <string name="fractions">Fractions</string>
+    <string name="decimal_numbers">Decimal Numbers</string>
+    <string name="ratio_and_proportion">Ratio And Proportion</string>
+    <string name="practical_geometry">Practical Geometry</string>
+    <string name="knowing_our_numbers">Knowing Our Numbers</string>
+    <string name="todo">TODO</string>
+    <string name="dark_energy_school">Dark Energy School</string>
+    <string name="mathematics_for_class_6">{Mathematics for Class 6}</string>
+    <string name="start_exercise">Start Exercise</string>
+    <string name="exercise_1_1">Exercise 1.1</string>
+    <string name="exercise_1_2">Exercise 1.2</string>
+    <string name="exercise_1_3">Exercise 1.3</string>
+    <string name="exercise_2_1">Exercise 2.1</string>
+    <string name="exercise_2_2">Exercise 2.2</string>
+    <string name="exercise_2_3">Exercise 2.3</string>
+    <string name="exercise_3_1">Exercise 3.1</string>
+    <string name="exercise_3_2">Exercise 3.2</string>
+    <string name="exercise_3_3">Exercise 3.3</string>
+    <string name="exercise_3_4">Exercise 3.4</string>
+    <string name="exercise_3_5">Exercise 3.5</string>
+    <string name="exercise_3_6">Exercise 3.6</string>
+    <string name="exercise_3_7">Exercise 3.7</string>
+    <string name="start" />
+    <string name="exercise_7_1">Exercise 7.1</string>
+    <string name="back">Back</string>
+    <string name="exercise_7_6">Exercise 7.6</string>
+    <string name="exercise_7_2">Exercise 7.2</string>
+    <string name="exercise_7_3">Exercise 7.3</string>
+    <string name="exercise_7_5">Exercise 7.5</string>
+    <string name="exercise_7_4">Exercise 7.4</string>
+    <string name="exercise_6_3">Exercise 6.3</string>
+    <string name="exercise_6_2">Exercise 6.2</string>
+    <string name="algebra">Algebra</string>
+    <string name="exercise_12_3">Exercise 12.3</string>
+    <string name="exercise_12_1">Exercise 12.1</string>
+    <string name="exercise_12_2">Exercise 12.2</string>
+
+
+</resources>

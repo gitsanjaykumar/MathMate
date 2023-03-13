@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity3">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="142sp"
+        tools:layout_editor_absoluteY="349sp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:layout_marginTop="10sp"
+            android:src="@drawable/school5"
+            android:contentDescription="@string/todo" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/knowing_our_numbers"
+            android:layout_marginTop="20sp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="#00008B"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/Exer1.1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=     "@string/exercise_1_1"
+            android:layout_marginTop="30sp"
+            android:textColor="@color/purple_700"
+            android:textStyle="bold"
+            android:padding="17sp"
+            android:textSize="20sp"
+            android:background="@color/silver"
+            app:drawableStartCompat="@drawable/pdf" />
+
+        <TextView
+            android:id="@+id/Exer1.2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text= "@string/exercise_1_2"
+            android:layout_marginTop="55sp"
+            android:textColor="@color/purple_700"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="17sp"
+            android:background="@color/silver"
+            app:drawableLeftCompat="@drawable/pdf" />
+
+        <TextView
+            android:id="@+id/Exer1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=     "@string/exercise_1_3"
+            android:layout_marginTop="55sp"
+            android:textColor="@color/purple_700"
+            android:textStyle="bold"
+            android:padding="17sp"
+            android:textSize="20sp"
+            android:background="@color/silver"
+            app:drawableLeftCompat="@drawable/pdf" />
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:gravity="left"
+            android:layout_marginLeft="150sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:layout_marginTop="90sp"
+            />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563391544560",
+    "firebase_url": "https://class-6-math-default-rtdb.firebaseio.com",
+    "project_id": "class-6-math",
+    "storage_bucket": "class-6-math.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563391544560:android:334a0bc953d4f240f7d635",
+        "android_client_info": {
+          "package_name": "darkEnergy.class6math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563391544560-eil3jd0unecostlbbo4fn8uvlugs3ako.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoZX3pmrl5EUUVpOTsi9BI7ZNf5bIzYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563391544560-eil3jd0unecostlbbo4fn8uvlugs3ako.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

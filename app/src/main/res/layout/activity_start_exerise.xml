@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     tools:context=".startExerise">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/silver"
+    android:orientation="vertical"
+    tools:layout_editor_absoluteX="64sp"
+    tools:layout_editor_absoluteY="92sp">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100sp"
+        android:layout_marginTop="10sp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/school4" />
+
+    <Button
+        android:id="@+id/knowing_our_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:padding="18sp"
+        android:text="@string/knowing_our_numbers"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:padding="18sp"
+        android:text="@string/whole_numbers"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:padding="18sp"
+        android:text="@string/playing_with_numbers"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:padding="18sp"
+        android:text="@string/basic_geometrical_ideas"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:padding="18sp"
+        android:text="@string/understanding_of_elementary_shapes"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:padding="18sp"
+        android:text="@string/integers"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:padding="18sp"
+        android:text="@string/fractions"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:padding="18sp"
+        android:text="@string/decimal_numbers"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/b9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:padding="18sp"
+        android:text="@string/data_handling"
+        android:textSize="15sp"
+        android:gravity="start"
+        android:textColor="@color/white"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:textStyle="bold"/>
+    <Button
+        android:textColor="@color/white"
+        android:id="@+id/b10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:padding="18sp"
+        android:text="@string/mensuration"
+        android:textSize="15sp"
+        android:gravity="start"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/b11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:background="@color/white"
+        android:textColor="@color/white"
+        android:padding="18sp"
+        android:text="@string/algebra"
+        android:textSize="15sp"
+        android:gravity="start"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:textStyle="bold"/>
+    <Button
+        android:textColor="@color/white"
+        android:id="@+id/b12"
+        android:background="@color/white"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_width="match_parent"
+        android:padding="18sp"
+        android:text="@string/ratio_and_proportion"
+        android:textSize="15sp"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:textStyle="bold"
+       />
+    <Button
+        android:id="@+id/b13"
+        android:background="@color/white"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_width="match_parent"
+        android:padding="18sp"
+        android:text="@string/symmetry"
+        android:textSize="15sp"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:gravity="start"/>
+    <Button
+        android:id="@+id/b14"
+        android:background="@color/white"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_width="match_parent"
+        android:padding="18sp"
+        android:text="@string/practical_geometry"
+        android:textSize="15sp"
+        android:drawableLeft="@drawable/ic_baseline_menu_book_24"
+        android:gravity="start"
+        android:textStyle="bold"/>
+
+      </LinearLayout>
+    </RelativeLayout>
+    </ScrollView>
